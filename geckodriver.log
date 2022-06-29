@@ -135,3 +135,14 @@ JavaScript warning: https://www.amazon.com/s?k=graphics+card&page=2&crid=387QUK6
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
+1656539743975	geckodriver	INFO	Listening on 127.0.0.1:53239
+1656539747010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nemanja\\AppData\\Local\\Temp\\rust_mozprofileAbLHEV"
+1656539747520	Marionette	INFO	Marionette enabled
+1656539747530	Marionette	INFO	Listening on port 53251
+Read port: 53251
+1656539747732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nemanja\\AppData\\Local\\Temp\\rust_mozprofileAbLHEV\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.amazon.com/s?k=graphics+card&crid=387QUK61IKCFW&sprefix=graphics+card%2Caps%2C196&ref=nb_sb_noss_2 line 6951 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=graphics+card&crid=387QUK61IKCFW&sprefix=graphics+card%2Caps%2C196&ref=nb_sb_noss_2&page=1 line 6925 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=graphics+card&page=2&crid=387QUK61IKCFW&sprefix=graphics+card%2Caps%2C196&ref=nb_sb_noss_2 line 6299 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656539761454	Marionette	INFO	Stopped listening on port 53251
