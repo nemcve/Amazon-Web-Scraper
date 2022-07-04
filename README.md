@@ -14,6 +14,7 @@ This program can be improved by making it more user-friendly:
 <ul>
   <li> The user can be asked by a prompt for a search term and number of pages to look in for, for that specific search term. </li>
   <li> The program can be made as a web application with user interface, displaying two input fields for information listed above. In the same app, the user will have an overview of scraped data and a graph made out of it.</li>
+  <li> The process of gathering information, like browser opening and going through a specified number of pages, should not be visible to the user. </li>
 </ul>
 <br>
 
